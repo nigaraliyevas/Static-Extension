@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\bin\Debug\net6.0\Static-Extension.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\bin\Debug\net6.0\Static-Extension.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\bin\Debug\net6.0\Static-Extension.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\refint\Static-Extension.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\Static-Extension.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Static-Extension\Static-Extension.Domain\obj\Debug\net6.0\ref\Static-Extension.Domain.dll
