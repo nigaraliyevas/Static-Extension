@@ -3,6 +3,6 @@
     interface IAccount
     {
         void ShowInfo();
-        string PasswordChecker(string password);
+        bool PasswordChecker(string password);
     }
 }

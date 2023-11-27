@@ -20,17 +20,17 @@ ps: Id dəyəri hər dəfə bir user obyekti yaranan zaman avtomatik artmalıdı
 id dəyərini dəyişmək olmamalıdı ancaq get etmək olar. User yarandığı zaman email və password 
 təyin edilməsi məcburidir.User-ə şifrə təyin edilərkən şifrənin PasswordChecker methodunun şərtlərini ödəməsi lazımdır.*/
 
-/*User user1 = new("lorem","555sSjjz");
-user1.Fullname = "Lorem Imsum";
+User user1 = new("lorem", "555sSjjz");
 //user1.ID = 5;set elemek olmur ✔️
-Console.WriteLine(user1.PasswordChecker(user1.Password));
+user1.Fullname = "Lorem Ipsum";
+user1.PasswordChecker(user1.Password);
 user1.ShowInfo();
 
-User user2 = new("","852sSHJjz");
+User user2 = new("Filankes Filankesov", "852sSHJjz");
 user2.Fullname = "Filankes Filankesov";
 //user2.ID = 6;set elemek olmur ✔️
-Console.WriteLine(user2.PasswordChecker(user2.Password));
-user2.ShowInfo();*/
+user2.PasswordChecker(user2.Password);
+user2.ShowInfo();
 
 /*//===>Solution 2 <=== //
 User user3 = new();
@@ -52,8 +52,9 @@ user3.ShowInfo();*/
 
 ps: Id dəyəri hər dəfə bir user obyekti yaranan zaman avtomatik artmalıdır və 
 qıraqdan id dəyərini dəyişmək olmamalıdı ancaq get etmək olar. Fullname və point olmadan student obyekti yaratmaq olmaz.*/
-Student student1 = new("Doler Sit", 75);
+/*Student student1 = new("Doler Sit", 75);
 Console.WriteLine(student1.StudentInfo());
 Student student2 = new("Lorem Ipsum", 101);
-Console.WriteLine(student2.StudentInfo());
+Console.WriteLine(student2.StudentInfo());*/
+
 #endregion 
